@@ -1,7 +1,7 @@
 from pinecone import Pinecone,ServerlessSpec
 
 # Initialize a Pinecone client with your API key
-pc = Pinecone(api_key="pcsk_7CdSi9_AnzmuiBgfx4k8dGHP5C3h3MvwCAoE3vFHPdVZvHDUrPzvRtsQYvrfRjNnpbyyTy")
+pc = Pinecone(api_key="")
 
 # Create an index for dense vectors with integrated embedding
 # index_name = "medicalindex"

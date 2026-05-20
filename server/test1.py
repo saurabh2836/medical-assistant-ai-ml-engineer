@@ -1,7 +1,7 @@
 from google import genai
 from google.genai import types
 
-GOOGLE_API_KEY ="AIzaSyC6vpxALcPou2trfG-1Ojv72H7pO3ZuipU"
+GOOGLE_API_KEY =""
 
 client = genai.Client(api_key=GOOGLE_API_KEY)
 
